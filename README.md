@@ -31,14 +31,14 @@
     <img src="img/Admin.jpg">
      <h3>Delivery </h3>
     <img src="img/Delivery_module.jpg">
-    <h3>features:</h3>
+    <h3>Features:</h3>
     <ul><li>Mobile Screen friendly website.</li>
-      <li>chatbot support</li>
+      <li>Chatbot support</li>
       <li>Secure Login</li>
       </ul>
       <h2>Mobile Screen friendly website.</h2>
       <img src="img/responsive.gif">
-      <h2>chatbot support</h2>
+      <h2>Chatbot support</h2>
       <img src="img/chatbotsupport.jpg">
       <h2>Secure Login</h2>
       <img src="img/hash-flow.png">
